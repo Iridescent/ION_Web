@@ -41,25 +41,27 @@ Recommended play: enrich Joan (Enterprise Community Engagement) and Laura (VP CS
 
 Caveat: several mid-tier CSR titles may sit under park operations rather than Burbank corporate — enrichment shows each person's exact org line before committing outreach.
 
-## 4. Pitch email draft
+## 4. Pitch email (final draft — to Laura, VP CSR, with the one-pager PDF attached)
 
-> **Subject: One Friday at Disney: 3 LA girls' schools, your volunteers, solutions LA actually needs**
+> **Subject: The next generation of AI builders lives three miles from your lot**
 >
-> Hi [Name],
+> Dear Laura,
 >
-> Disney supported our work training LA students in engineering and technology back when we were Iridescent — I'm reaching out because I think the moment is right to do something together again, and this time it's small, local, and fast.
+> Disney supported our work with LA students years ago, back when Technovation was called Iridescent — girls from the same neighborhoods we still serve today learned engineering with us thanks in part to that support. I'm writing because we have a chance to do something meaningful together again this fall, and it's a modest ask with a lasting payoff for the girls involved.
 >
-> I run Technovation, the world's largest tech-entrepreneurship program for girls (335,000 learners, 160+ countries — and 20 years in LA). This fall we're kicking off our season with three LA girls' schools — Girls Athletic Leadership School, New Village Girls Academy, and Julia Lee Performing Arts Academy — and we'd love to hold that kickoff at Disney's LA office.
+> This fall we begin our new season with three LA girls' schools — Girls Athletic Leadership School, New Village Girls Academy, and Julia Lee Performing Arts Academy. We'd love to hold their season kickoff at Disney's LA office: one Friday, two short sessions, where students and Disney volunteers sit together and talk through problems the girls see every day in their own neighborhoods — then sketch the beginnings of solutions — many of them AI-powered — that the girls spend the rest of the season building. Most of these students have never been inside a company like Disney, and that day stays with them; every project they present in the spring will trace back to it.
 >
-> The shape of it: one Friday, two ~2-hour ideation sessions (morning and afternoon, matched to the schools' bell schedules — we've already confirmed their availability). Teams of students plus one Disney employee name a problem they see in their own neighborhoods — transit, safety, food access — and sketch a tech solution the students then build all season. Your people bring craft; the girls bring hyperlocal knowledge. We handle all school coordination, curriculum, and facilitation; we'd need a room that holds ~40 and 5+ volunteers per session.
+> I've attached a one-page overview with the shape of the day and what we'd need from your side — it's deliberately light: a room, a handful of volunteers (no technical background needed), and a Friday. We handle everything else, and the schools have already confirmed their availability.
 >
-> Hearing your leadership describe AI as a "velocity accelerator" for human-centered storytelling — that's precisely the skill this day teaches: finding the right problem and shaping the story of its solution. And every project the girls submit in spring traces back to a Friday in your building — a concrete Future Storytellers moment your VoluntEARS can point to.
+> Would you have 20 minutes in the next couple of weeks for a call? We'd pick the Friday together and shape the day around your teams' calendars.
 >
-> Could we grab 20 minutes in the next couple of weeks to pick the Friday and shape the run of show around your teams' calendars?
->
-> Warmly,
+> With gratitude,
 > Tara Chklovski
 > Founder & CEO, Technovation
+
+**Alternate AI-angle subject lines considered:** "40 LA girls, one Friday, their first AI solutions" · "Before they build with AI, they need to see where ideas get built" · "What LA teenagers would fix with AI (they'd love to tell your teams)" · "AI needs more inventors like these girls"
+
+**Attachment note:** the proposal PDF exports as 65 pages / 6.3MB despite rendering as a one-pager — flatten to a true single-page PDF (<1MB) before sending so the attachment matches the "one-page overview" line.
 
 ## 5. Next steps
 
